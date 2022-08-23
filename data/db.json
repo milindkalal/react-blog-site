@@ -1,0 +1,22 @@
+{
+    "blogs":[
+        {
+            "title": "Web dev top tips",
+      "body": "lorem ipsum...",
+      "author": "mario",
+      "id": 1
+        },
+        {
+            "title": "MERN",
+      "body": "lorem ipsum...",
+      "author": "milind",
+      "id": 2
+        },
+        {
+            "title": "Python",
+      "body": "lorem ipsum...",
+      "author": "sagar",
+      "id": 3
+        }
+    ]
+}
