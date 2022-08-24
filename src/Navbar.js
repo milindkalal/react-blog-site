@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const Navbar = () => {
   return (
     <nav className="navbar">
-      <h1>The Dojo Blog</h1>
+      <h1>The Blog Site</h1>
       <div className="links">
         {/* using Link-to instead of anchor tag */}
         <Link to="/">Home</Link>
@@ -11,7 +11,7 @@ const Navbar = () => {
           to="/create"
           style={{
             color: "white",
-            backgroundColor: "#f1356d",
+            backgroundColor: "purple",
             borderRadius: "8px",
           }}
         >
